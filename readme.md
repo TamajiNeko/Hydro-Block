@@ -1,5 +1,5 @@
 ![Title](src/Assets/Banner.png)
-This is my open source project for **Advance Computer Programing** and Chemical for **Computer Engineer** Subject
+This is my open source project for **Advance Computer Programing** and **Chemical for Computer Engineer** Subject
 ## Concept
 - Chemical Block that can add or remove its chain
 - Show how many chain left belove Element
